@@ -150,11 +150,11 @@ Dashboard running at: `http://localhost:5173`
 
 ## Author
 
-**Ujjwala Meena** — Technical Support Manager | CCNA | ITIL V4 | Azure 900
+**Sasanka Kumar Jakkamreddy** — Technical Support Manager | CCNA | ITIL V4 | Azure 900
 
 Building AI-native network operations tooling.
 
-[LinkedIn](https://linkedin.com/in/ujjwala-meena) · [GitHub](https://github.com/ujjwala91)
+[LinkedIn](https://www.linkedin.com/in/sasanka-kumar-jakkamreddy-64b00559/) · [GitHub](https://github.com/sasankkumarjakkamreddy-ai/)
 
 ---
 
