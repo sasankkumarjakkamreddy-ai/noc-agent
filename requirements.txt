@@ -1,0 +1,9 @@
+anthropic>=0.25.0
+pydantic>=2.0.0
+fastapi>=0.111.0
+uvicorn>=0.29.0
+langgraph>=0.1.0
+langchain-anthropic>=0.1.0
+langchain-core>=0.2.0
+python-dotenv>=1.0.0
+napalm>=5.0.0

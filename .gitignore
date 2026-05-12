@@ -1,0 +1,13 @@
+cat > ~/noc-agent/.gitignore << 'EOF'
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.db
+node_modules/
+dist/
+.DS_Store
+*.egg-info/
+.venv/
+.env
+__pycache__/

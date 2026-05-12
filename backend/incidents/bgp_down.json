@@ -1,0 +1,32 @@
+{
+  "incident_id": "INC-2026-001",
+  "timestamp": "2026-05-12T20:00:00",
+  "device": "core-router-zurich-01",
+  "alert_type": "BGP_SESSION_DOWN",
+  "raw_message": "%BGP-5-ADJCHANGE: neighbor 10.0.0.1 Down BGP Notification sent, code 6 (Cease), subcode 4 (Administrative Reset)",
+  "affected_peer": "10.0.0.1",
+  "severity": "critical",
+  "context": {
+    "device_model": "Cisco ASR 9001",
+    "ios_version": "IOS XR 7.9.1",
+    "bgp_asn": 65001,
+    "peer_asn": 65002,
+    "peer_description": "Uplink to ISP-Transit-Amsterdam",
+    "session_uptime_before_drop": "14d 6h 22m",
+    "last_config_change": "2026-05-12T17:45:00",
+    "last_config_change_by": "neteng-auto-agent-01",
+    "interface": "GigabitEthernet0/0/0/1",
+    "interface_status": "up",
+    "mtu": 1500,
+    "peer_mtu": 9000,
+    "hold_timer_expired": false,
+    "notification_code": "Cease",
+    "notification_subcode": "Administrative Reset",
+    "recent_events": [
+      "2026-05-12T17:45:12 - Config change applied by neteng-auto-agent-01",
+      "2026-05-12T17:46:03 - BGP session flap detected",
+      "2026-05-12T17:46:05 - BGP session re-established",
+      "2026-05-12T20:00:01 - BGP session down, not recovering"
+    ]
+  }
+}
